@@ -86,7 +86,7 @@ const MovieDetails = () => {
 
 
       <TouchableOpacity
-        className="absolute bottom-5 left-0 right-0 mx-5 bg-purple-400 rounded-lg py-3.5 flex flex-row items-center justify-center z-50"
+        className="absolute top-5 mx-5 bg-purple-500 py-3.5 flex flex-row z-50 p-2 rounded-tr-2xl rounded-bl-2xl ml-2"
         onPress={router.back}
       >
         <Image
