@@ -22,3 +22,13 @@ Merhaba! Bu proje, React Native kullanılarak geliştirilmiş bir film keşif ve
   <img src="https://github.com/user-attachments/assets/bc60c5c4-95c7-46ad-8846-89645b892171" width="200" />
   <img src="https://github.com/user-attachments/assets/304c9e9d-35c4-46b0-8acf-c8df5938d694" width="200" />
 </p>
+
+---
+
+## ⚙️ Kullanılan Teknolojiler
+
+- ⚛️ React Native & Expo
+- 🧠 Redux Toolkit
+- 🌬️ Tailwind CSS (Nativewind)
+- 🎞️ TMDB API
+- 🔥 Firebase (Auth + Firestore)
