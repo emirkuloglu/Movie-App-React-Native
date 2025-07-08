@@ -10,7 +10,7 @@ Merhaba! Bu proje, React Native kullanılarak geliştirilmiş bir film keşif ve
 - 🔍 Film arama ve detay sayfası
 - 💾 Aratılan filmleri Appwrite Database ile tutup Trendler bölümünde gösterme
 - ❤️ Beğenilen filmleri kaydetme (Henüz test aşamasında!)
-- 🔐 Firebase Authentication (E-posta & Google Girişi) (Henüz test aşamasında!)
+- 🔐 Firebase Authentication (Kullanıcı Girişi) (Henüz test aşamasında!)
 
 ---
 
