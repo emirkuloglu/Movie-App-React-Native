@@ -1,6 +1,6 @@
 # 🎬 Movie App
 
-Merhaba! Bu proje, React Native kullanılarak geliştirilmiş bir film keşif ve favorilere ekleme uygulamasıdır. Firebase ile kullanıcı kimlik doğrulama, veri kaydetme gibi özellikler sunar.
+Merhaba! Bu proje, React Native kullanılarak geliştirilmiş bir film keşif ve favorilere ekleme uygulamasıdır.
 
 ---
 
